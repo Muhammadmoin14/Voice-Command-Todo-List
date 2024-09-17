@@ -14,6 +14,7 @@ Make sure you have Python installed, then install the following dependencies:
 
 ```bash
 pip install pyttsx3 speechrecognition InquirerPy
+```
 
 # Usage
 
